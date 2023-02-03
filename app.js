@@ -5,3 +5,4 @@ years[3]="jay"
 console.log(years[years.length-1]);
 console.log(years.map(...friends));
 console.log("test kiran")
+console.log("test kiran")
