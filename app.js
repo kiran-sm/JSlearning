@@ -30,13 +30,13 @@
 // console.log(`floore number ${Math.floor(k)}`);
 // console.log(`ceil number ${Math.ceil(k)}`);
 
-const arrayCalc = [1,2,3,4,5,6,7,"a"]
-let arrayCalcSum=0
-console.log(arrayCalc.length);
- for(i=0;i<=arrayCalc.length-1;i++){
-     arrayCalcSum = arrayCalcSum + arrayCalc[i]
-    console.log(arrayCalcSum);
-}
-let avgCalc = arrayCalcSum/arrayCalc.length;
-console.log(`avrage of the entered array is ${avgCalc} and its sum is ${arrayCalcSum}`);
-console.log(typeof(arrayCalcSum));
+// const arrayCalc = [1,2,3,4,5,6,7,"a"]
+// let arrayCalcSum=0
+// console.log(arrayCalc.length);
+//  for(i=0;i<=arrayCalc.length-1;i++){
+//      arrayCalcSum = arrayCalcSum + arrayCalc[i]
+//     console.log(arrayCalcSum);
+// }
+// let avgCalc = arrayCalcSum/arrayCalc.length;
+// console.log(`avrage of the entered array is ${avgCalc} and its sum is ${arrayCalcSum}`);
+// console.log(typeof(arrayCalcSum));
